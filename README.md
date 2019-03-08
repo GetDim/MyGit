@@ -1,3 +1,4 @@
 # MyGit
 First Repository
-text added
+Index.html opens Knowledge.pdf with preserved links
+
