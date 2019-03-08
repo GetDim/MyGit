@@ -1,3 +1,3 @@
-# Knowledge PDF Menu
+# PDF Menu Knowledge
 How to preserve hyperlinks when converting Word docx to pdf
 Index.html onclick opens Knowledge.pdf with all links active.
